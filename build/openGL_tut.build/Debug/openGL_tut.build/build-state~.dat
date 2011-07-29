@@ -1,0 +1,57 @@
+TopenGL_tut
+v7
+r0
+t319433782.700912
+cCheck dependencies
+
+N/Users/jlee/Documents/openGL_tut/MainWindow.xib
+c000000004D59DF640000000000005636
+t1297735524
+s22070
+
+N/Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib
+c000000004D59DF6400000000000059B8
+t1297735524
+s22968
+
+N/Users/jlee/Documents/openGL_tut/build/Debug/openGL_tut.app
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/Debug/openGL_tut.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/Debug/openGL_tut.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/Debug/openGL_tut.app/Contents/Resources/MainWindow-iPad.nib
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/Debug/openGL_tut.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NopenGL_tut-Info.plist
+c000000004D59DF6400000000000003CE
+t1297735524
+s974
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319433793#319433793#0(99"[BEROR]No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).1(4@91"No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).319433793#18446744073709551615#0#0(1@0"0(0#1#0"8607744256#0"0#
+
+CCompileXIB /Users/jlee/Documents/openGL_tut/MainWindow.xib
+r0
+
+CCompileXIB /Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib
+r0
+
+CProcessInfoPlistFile /Users/jlee/Documents/openGL_tut/build/Debug/openGL_tut.app/Contents/Info.plist openGL_tut-Info.plist
+r0
+
+CTouch /Users/jlee/Documents/openGL_tut/build/Debug/openGL_tut.app
+r0
+

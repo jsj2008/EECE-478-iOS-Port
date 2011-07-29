@@ -1,0 +1,17 @@
+#student number
+21650056
+#name
+The street with no pavement: An interpretation of 30's Jazz music in a digital world
+#number of models
+10
+#models! (Sx Sy Sz Rx Ry Rz Tx Ty Tz)
+MarineDriveCommonsBlock_21650056/MarineDriveCommonsBlock_21650056.model 1 1 1 0 0 0 -1 0 -1 
+BuchananTower_Day_53000055/BuchananTower_Day_53000055.model 1.4 1.4 1.4 0 0 0 5 0 5
+Cheeze_Day_23461031/Cheeze_Day_23461031.model 0.2 0.2 0.2 0 0 0 -6.25 0 -5
+ChemBio_Day_35794080/ChemBio_Day_35794080.model 1 1 1 0 0 0 -12.5 0 -2.5
+Co-opOffice_33685058/Co-opOffice_33685058.model 0.2 0.2 0.2 0 270 0 1 0 5
+SwingSpace_58136060/SwingSpace_58136060.model 0.5 0.5 0.5 0 -90 0 -8 0 5
+TheOrchard_34134056/TheOrchard_34134056.model 0.17 0.17 0.17 0 0 0 5 0 -3
+StudentRecreationCentre_Day_49816051/StudentRecreationCentre_Day_49816051.model 8.5 8.5 8.5 0 0 0 8.3 0 -5.5
+MorrisAndHellenBelkinArtGallery_Day_80689060/MorrisAndHellenBelkinArtGallery_Day_80689060.model 0.9 0.9 0.9 0 180 0 15 0 6
+UBCClocktower_day_77651040/UBCClocktower_day_77651040.model 1 1 1 -90 0 0 -12 0 0

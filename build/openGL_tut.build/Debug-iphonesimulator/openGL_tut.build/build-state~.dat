@@ -1,0 +1,378 @@
+TopenGL_tut
+v7
+r0
+t319525574.946633
+cCheck dependencies
+cProcessInfoPlistFile /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/Info.plist openGL_tut-Info.plist
+cCompileXIB /Users/jlee/Documents/openGL_tut/MainWindow.xib
+cCompileXIB /Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib
+cProcessPCH /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch.gch openGL_tut_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/main.o /Users/jlee/Documents/openGL_tut/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/openGL_tutAppDelegate.o /Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLView.o /Users/jlee/Documents/openGL_tut/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLViewController.o /Users/jlee/Documents/openGL_tut/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/OpenGLTexture3D.o /Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/jlee/Documents/openGL_tut/Classes/ConstantsAndMacros.h
+c000000004D5A2CB200000000000004F1
+t1297755314
+s1265
+
+N/Users/jlee/Documents/openGL_tut/Classes/GLView.h
+c000000004D5B1D1B000000000000033E
+t1297816859
+s830
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/jlee/Documents/openGL_tut/Classes/GLView.m
+c000000004D59DF640000000000001172
+t1297735524
+s4466
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/jlee/Documents/openGL_tut/Classes/GLViewController.h
+c000000004D5B5A830000000000000136
+t1297832579
+s310
+i<UIKit/UIKit.h>
+i"GLView.h"
+
+N/Users/jlee/Documents/openGL_tut/Classes/GLViewController.m
+c000000004D5B5AAE00000000000009E8
+t1297832622
+s2536
+i"GLViewController.h"
+i"ConstantsAndMacros.h"
+i"OpenGLCommon.h"
+
+N/Users/jlee/Documents/openGL_tut/Classes/OpenGLCommon.h
+c000000004D5B18770000000000008133
+t1297815671
+s33075
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGL/OpenGL.h>
+i"ConstantsAndMacros.h"
+
+N/Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.h
+c000000004D59DF64000000000000022A
+t1297735524
+s554
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.m
+c000000004D59DF640000000000000CE7
+t1297735524
+s3303
+i"OpenGLTexture3D.h"
+
+N/Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.h
+c000000004D59DF640000000000000196
+t1297735524
+s406
+i<UIKit/UIKit.h>
+
+N/Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.m
+c000000004D59DF6400000000000002EE
+t1297735524
+s750
+i"openGL_tutAppDelegate.h"
+i"GLView.h"
+
+N/Users/jlee/Documents/openGL_tut/MainWindow.xib
+c000000004D59DF640000000000005636
+t1297735524
+s22070
+
+N/Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib
+c000000004D59DF6400000000000059B8
+t1297735524
+s22968
+
+N/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app.dSYM
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/Info.plist
+t1297832773
+s653
+
+N/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/MainWindow-iPad.nib
+t1297832773
+s1320
+
+N/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/MainWindow.nib
+t1297832773
+s1296
+
+N/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/PkgInfo
+t1297832773
+s8
+
+N/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLView.o
+t1297832774
+s52784
+
+N/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLViewController.o
+t2
+s0
+
+N/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/OpenGLTexture3D.o
+t1297832774
+s17400
+
+N/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/main.o
+t1297832774
+s6292
+
+N/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/openGL_tut.LinkFileList
+c000000004D5B5B45000000000000028C
+t1297832773
+s652
+
+N/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/openGL_tutAppDelegate.o
+t1297832774
+s50252
+
+N/Users/jlee/Documents/openGL_tut/main.m
+c000000004D59DF640000000000000157
+t1297735524
+s343
+i<UIKit/UIKit.h>
+
+N/Users/jlee/Documents/openGL_tut/openGL_tut_Prefix.pch
+c000000004D59DF6400000000000000D4
+t1297735524
+s212
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"ConstantsAndMacros.h"
+
+N/var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch.gch
+t1297832774
+s15457520
+
+NopenGL_tut-Info.plist
+c000000004D59DF6400000000000003CE
+t1297735524
+s974
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319525573#319525573#0(0"0(0#1#0"8617444032#0"0#
+
+CCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLView.o /Users/jlee/Documents/openGL_tut/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319525574.739259
+e319525574.889825
+r1
+xCompileC
+xbuild/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLView.o
+x/Users/jlee/Documents/openGL_tut/Classes/GLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/jlee/Documents/openGL_tut/Classes/GLView.m319525574#319525574#0(0"0(0#0#49"/Users/jlee/Documents/openGL_tut/Classes/GLView.m8615368288#1920"    cd /Users/jlee/Documents/openGL_tut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-generated-files.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-own-target-headers.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-all-target-headers.hmap -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-project-headers.hmap -F/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -I/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/include -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources/i386 -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources -include /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch -c /Users/jlee/Documents/openGL_tut/Classes/GLView.m -o /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLView.o0#
+
+CCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLViewController.o /Users/jlee/Documents/openGL_tut/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319525574.776019
+e319525574.867174
+r0
+xCompileC
+xbuild/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLViewController.o
+x/Users/jlee/Documents/openGL_tut/Classes/GLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jlee/Documents/openGL_tut/Classes/GLViewController.m:9:
+o/Users/jlee/Documents/openGL_tut/Classes/GLViewController.h:17: error: expected ')' before 'unitSize'
+lSLF07#2@67"Compile /Users/jlee/Documents/openGL_tut/Classes/GLViewController.m319525574#319525574#0(187"In file included from /Users/jlee/Documents/openGL_tut/Classes/GLViewController.m:9:/Users/jlee/Documents/openGL_tut/Classes/GLViewController.h:17: error: expected ')' before 'unitSize'1(4@30"Expected ')' before 'unitSize'319525574#85#102#2(7@81"In file included from /Users/jlee/Documents/openGL_tut/Classes/GLViewController.m319525574#18446744073709551615#0#0(6@59"/Users/jlee/Documents/openGL_tut/Classes/GLViewController.m319525422#9#0#9#0#0"0(13@93"Expected ')' before 'unitSize' in /Users/jlee/Documents/openGL_tut/Classes/GLViewController.h319525574#18446744073709551615#0#0(6@59"/Users/jlee/Documents/openGL_tut/Classes/GLViewController.h319525379#17#0#17#0#0"0(6@59"/Users/jlee/Documents/openGL_tut/Classes/GLViewController.h319525379#17#0#17#0#19"expected * before *0(0#0#59"/Users/jlee/Documents/openGL_tut/Classes/GLViewController.m8617412096#1940"    cd /Users/jlee/Documents/openGL_tut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-generated-files.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-own-target-headers.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-all-target-headers.hmap -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-project-headers.hmap -F/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -I/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/include -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources/i386 -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources -include /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch -c /Users/jlee/Documents/openGL_tut/Classes/GLViewController.m -o /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/GLViewController.o1#
+
+CCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/OpenGLTexture3D.o /Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319525574.867273
+e319525574.946554
+r1
+xCompileC
+xbuild/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/OpenGLTexture3D.o
+x/Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.m319525574#319525574#0(0"0(0#0#58"/Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.m8617452288#1938"    cd /Users/jlee/Documents/openGL_tut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-generated-files.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-own-target-headers.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-all-target-headers.hmap -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-project-headers.hmap -F/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -I/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/include -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources/i386 -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources -include /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch -c /Users/jlee/Documents/openGL_tut/Classes/OpenGLTexture3D.m -o /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/OpenGLTexture3D.o0#
+
+CCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/main.o /Users/jlee/Documents/openGL_tut/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319525574.683202
+e319525574.738996
+r1
+xCompileC
+xbuild/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/main.o
+x/Users/jlee/Documents/openGL_tut/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/jlee/Documents/openGL_tut/main.m319525574#319525574#0(0"0(0#0#39"/Users/jlee/Documents/openGL_tut/main.m8616141888#1908"    cd /Users/jlee/Documents/openGL_tut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-generated-files.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-own-target-headers.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-all-target-headers.hmap -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-project-headers.hmap -F/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -I/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/include -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources/i386 -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources -include /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch -c /Users/jlee/Documents/openGL_tut/main.m -o /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/main.o0#
+
+CCompileC build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/openGL_tutAppDelegate.o /Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319525574.684257
+e319525574.775920
+r1
+xCompileC
+xbuild/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/openGL_tutAppDelegate.o
+x/Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.m319525574#319525574#0(0"0(0#0#64"/Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.m8615892224#1950"    cd /Users/jlee/Documents/openGL_tut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-generated-files.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-own-target-headers.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-all-target-headers.hmap -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-project-headers.hmap -F/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -I/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/include -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources/i386 -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources -include /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch -c /Users/jlee/Documents/openGL_tut/Classes/openGL_tutAppDelegate.m -o /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/openGL_tutAppDelegate.o0#
+
+CCompileXIB /Users/jlee/Documents/openGL_tut/MainWindow.xib
+s319525573.064808
+e319525573.491920
+r1
+xCompileXIB
+x/Users/jlee/Documents/openGL_tut/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319525573#319525573#0(0"0(0#0#47"/Users/jlee/Documents/openGL_tut/MainWindow.xib8602491648#555"    cd /Users/jlee/Documents/openGL_tut    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/MainWindow.nib /Users/jlee/Documents/openGL_tut/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib
+s319525573.065548
+e319525573.620129
+r1
+xCompileXIB
+x/Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib319525573#319525573#0(0"0(0#0#67"/Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib8602159392#580"    cd /Users/jlee/Documents/openGL_tut    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/MainWindow-iPad.nib /Users/jlee/Documents/openGL_tut/Resources-iPad/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app.dSYM /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut
+s319524144.011551
+e319524144.030183
+r1
+xGenerateDSYMFile
+x/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app.dSYM
+x/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/openGL_tut.app.dSYM build/Debug-iphonesimulator/openGL_tut.app/openGL_tut319524144#319524144#0(0"0(0#0#86"/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut8615227200#374"    cd /Users/jlee/Documents/openGL_tut    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut -o /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app.dSYM0#
+
+CLd /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut normal i386
+s319524143.983919
+e319524144.011448
+r1
+xLd
+x/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut
+xnormal
+xi386
+lSLF07#2@91"Link /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut319524143#319524144#0(0"0(0#0#0"8615778912#927"    cd /Users/jlee/Documents/openGL_tut    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -F/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -filelist /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/Objects-normal/i386/openGL_tut.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/openGL_tut0#
+
+CProcessInfoPlistFile /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/Info.plist openGL_tut-Info.plist
+s319525573.052949
+e319525573.064717
+r1
+xProcessInfoPlistFile
+x/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/Info.plist
+xopenGL_tut-Info.plist
+lSLF07#2@29"Process openGL_tut-Info.plist319525573#319525573#0(0"0(0#0#54"/Users/jlee/Documents/openGL_tut/openGL_tut-Info.plist8614531584#470"    cd /Users/jlee/Documents/openGL_tut    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility openGL_tut-Info.plist -genpkginfo /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app/Info.plist0#
+
+CProcessPCH /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch.gch openGL_tut_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319525573.620268
+e319525574.683030
+r1
+xProcessPCH
+x/var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch.gch
+xopenGL_tut_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile openGL_tut_Prefix.pch319525573#319525574#0(0"0(0#0#54"/Users/jlee/Documents/openGL_tut/openGL_tut_Prefix.pch8614682720#1803"    cd /Users/jlee/Documents/openGL_tut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-generated-files.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-own-target-headers.hmap -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-all-target-headers.hmap -iquote /Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/openGL_tut-project-headers.hmap -F/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator -I/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/include -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources/i386 -I/Users/jlee/Documents/openGL_tut/build/openGL_tut.build/Debug-iphonesimulator/openGL_tut.build/DerivedSources -c /Users/jlee/Documents/openGL_tut/openGL_tut_Prefix.pch -o /var/folders/KD/KDRYE-W1EYG7jwsqlhXOLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/openGL_tut_Prefix-ezjnlyxoeozmtogddhudwtuyqlle/openGL_tut_Prefix.pch.gch0#
+
+CTouch /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app
+s319524144.030268
+e319524144.033318
+r1
+xTouch
+x/Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app
+lSLF07#2@81"Touch /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app319524144#319524144#0(0"0(0#0#0"8612555360#269"    cd /Users/jlee/Documents/openGL_tut    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jlee/Documents/openGL_tut/build/Debug-iphonesimulator/openGL_tut.app0#
+
